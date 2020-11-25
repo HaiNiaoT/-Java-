@@ -4,6 +4,6 @@
 
 ```
   (注意路径)
-  java -cp .\sa-jdi.jar sun.jvm.hotspot.HSDB
-  java -cp .\sa-jdi.jar sun.jvm.hotspot.CLHSDB
+  java -cp **.\sa-jdi.jar** sun.jvm.hotspot.HSDB
+  java -cp **.\sa-jdi.jar** sun.jvm.hotspot.CLHSDB
 ```
