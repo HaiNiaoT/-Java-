@@ -9,12 +9,12 @@
 ```
 ## 使用
 1. 命令查找需要的进程
-  `jps -l`
-  > 9584 com.hky.TestEgressPlaceTop
-  > 14804 org.jetbrains.jps.cmdline.Launcher
-  > 16964 sun.tools.jps.Jps
-  > 15848 org.jetbrains.idea.maven.server.RemoteMavenServer
-  > 6888
-  > 7320 sun.jvm.hotspot.HSDB
+  `jps -l`  
+  > 9584 com.hky.TestEgressPlaceTop  
+  > 14804 org.jetbrains.jps.cmdline.Launcher  
+  > 16964 sun.tools.jps.Jps  
+  > 15848 org.jetbrains.idea.maven.server.RemoteMavenServer  
+  > 6888  
+  > 7320 sun.jvm.hotspot.HSDB  
 2. 调用HSDB工具
   file>Attach to
